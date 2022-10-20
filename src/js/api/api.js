@@ -12,7 +12,7 @@ const createOptions = options => {
 
 export const getImages = (query, page = 1) => {
   const options = {
-    key: '24768464-e1ff0e2674d224e161089b0f2',
+    key: '30745255-b909a2241bf9ab8444da42817',
     q: query,
     image_type: 'photo',
     orientation: 'horizontal',
