@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const PER_PAGE = 20;
+const PER_PAGE = 40;
 
 const createOptions = options => {
   const keys = Object.keys(options);
